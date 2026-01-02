@@ -1,0 +1,104 @@
+# ==================================================
+# Python – compiled files and cache
+# ==================================================
+__pycache__/
+*.py[codz]
+*$py.class
+
+# ==================================================
+# Virtual environments
+# ==================================================
+.env
+.envrc
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==================================================
+# Build / distribution tools
+# ==================================================
+build/
+dist/
+develop-eggs/
+eggs/
+.eggs/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==================================================
+# Logs and temporary files
+# ==================================================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ==================================================
+# Tests and coverage reports
+# ==================================================
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+coverage.xml
+
+# ==================================================
+# IDEs and editors
+# ==================================================
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm / JetBrains IDEs
+.idea/
+
+# Spyder IDE
+.spyderproject
+.spyproject
+
+# Cursor editor
+.cursorignore
+.cursorindexingignore
+
+# ==================================================
+# Operating Systems
+# ==================================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# ==================================================
+# Jupyter Notebook
+# ==================================================
+.ipynb_checkpoints/
+
+# ==================================================
+# Documentation (ignore only heavy files)
+# ==================================================
+docs/Apresentação.pdf
+docs/Relatorio.pdf
+
+# ==================================================
+# Local databases
+# ==================================================
+*.sqlite3
+*.db
+
+# ==================================================
+# Sensitive configuration files
+# ==================================================
+.pypirc
+local_settings.py
