@@ -1,4 +1,4 @@
-<h1 align="center"> 🎢 Database — Amusement Park </h1>
+<h1 align="center"> 🎢 Database — Parque de Diversões </h1>
 
 <p align="center">
   <img src="docs/images/banner.png" alt="Banner" width="600">
