@@ -1,7 +1,7 @@
 <h1 align="center"> 🎢 Database — Parque de Diversões </h1>
 
 <p align="center">
-  <img src="docs/images/banner.png" alt="Banner" width="600">
+  <img src="docs\images\banner\banner.png" alt="Banner" width="600">
 </p>
 
 <p align="center">
